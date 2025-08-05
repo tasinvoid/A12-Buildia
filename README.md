@@ -4,6 +4,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
+Admin email: t@t.com
+
+Admin password: Sh019953
+
 ---
 
 ## ✨ Overview
