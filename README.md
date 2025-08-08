@@ -75,6 +75,34 @@ BuildiDA is built using a robust MERN stack architecture complemented by modern 
 
 ---
 
+### ⚙️ Installation & Setup
+
+1.  **Clone the repositories:**
+    ```bash
+    git clone https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-tasinvoid.git
+    git clone https://github.com/Programming-Hero-Web-Course4/b11a12-server-side-tasinvoid.git
+    ```
+2.  **Install dependencies:**
+    ```bash
+    # In client directory
+    npm install
+    # In server directory
+    npm install
+    ```
+3.  **Set up environment variables:**
+    * Create a `.env` file in both the `client` and `server` directories.
+    * Add your Firebase configuration keys to the client's `.env` file.
+    * Add your MongoDB URI to the server's `.env` file.
+4.  **Run the project:**
+    ```bash
+    # In client directory
+    npm run dev
+    # In server directory
+    npm start
+    ```
+
+---
+
 ## 🎨 Design & Styling
 
 The application features a sleek and modern **dark theme** with a focus on usability and visual appeal:
